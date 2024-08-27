@@ -1,8 +1,35 @@
-# React + Vite
+# FancyCounter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React counter app built with Vite and deployed to GitHub Pages.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo [here](https://twanakhudhur.github.io/fancycounter).
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/twanakhudhur/fancycounter.git
+
+2. **Navigate to the project directory:**
+
+   cd fancycounter
+
+3. **Install dependencies:**
+
+    npm install
+
+
+4. **Start the development server:**
+
+   npm run dev
+
+
+Your app should now be running on http://localhost:5173 (or a similar port).
+
+
+   
